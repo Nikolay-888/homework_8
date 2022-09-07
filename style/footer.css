@@ -1,0 +1,79 @@
+.card-text {
+    margin-top: 60px;
+    width: 254px;
+}
+
+.hr {
+background-color: #EFEFEF;
+}
+
+.text-litle {
+    font-family: "Roboto-Regular";
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140.62%;
+    color: #000000;
+}
+
+.text-small {
+    font-family: "Roboto-Regular";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    color: #828282;
+    text-decoration: none;
+}
+
+div ~ .card-text {
+    margin-left: 30px;
+}
+
+.line {
+    margin-top: 60px;
+}
+
+.small-card {
+    margin-top: 37px;
+    width: 45px;
+    height: 45px;
+    left: 596px;
+    top: 3132px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    border: 2px solid #F13C6E;
+}
+
+.icon-youTube {
+    padding: 12.5px 10px;
+}
+
+.icon-vk {
+    padding: 13px 6px;
+}
+
+.icon-facebook {
+    padding: 11px 14px;
+}
+
+.icon-instagram {
+    padding: 10px 10px; 
+}
+
+div ~ .small-card {
+    margin-left: 20px;
+}
+
+.footer {
+    margin-top: 40px;
+    background: #EFEFEF;
+    padding-top: 25px;
+    padding-bottom: 37px;
+}
+.copy {
+    font-family: "Roboto-Regular";
+    font-size: 12px;
+    text-align: right;
+    color: #828282;
+    text-decoration: none;
+}
